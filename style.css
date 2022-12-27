@@ -1,0 +1,198 @@
+* {
+    padding: o;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+.imgadjust{
+    height: 500px;
+
+}
+.divmain{
+    display: flex;
+    width: 100%;
+}
+.cctvadjust{
+    height: 300px;
+    width: 300px;
+    margin: 70px 0 0 100px;
+}
+.moneyimageadjust,.locationimageadjust{
+    margin: 0 0 0 100px ;
+    height: 500px;
+}
+.div1{
+    width: 30%;
+}
+.div3{
+    width: 50%;
+}
+.div4{
+    width: 30%;
+}
+.div5{
+    width: 70%;
+}
+.locationadjust{
+    margin: 200px 60px 0 150px;
+    font-size: 60px;
+}
+.moneyadjust{
+    margin: 200px 60px 0 100px;
+    font-size: 60px;
+    
+}
+.a-up:hover{
+   
+    border: 0.5px solid black;
+    transition: .5s;
+
+}
+.contacthover:hover{
+   border: 0.5px solid  #ADE792;
+   color: #ADE792;
+}
+.Reviviwehover:hover{
+    border: 0.5px solid #9EA1D4;
+   color: #9EA1D4;
+}
+.mailhover:hover{
+    border: 0.5px solid #FD8A8A;
+   color: #FD8A8A;
+}
+.servicehover:hover{
+    border: 0.5px solid #495579;
+   color: #2C74B3;
+}
+.div2{
+    width: 70%;
+}
+.mainp{
+    margin: 100px 0 0 100px;
+    font-size: 30px;
+}
+.mainh1{
+    margin: 0 0 0 100px ;
+    font-size: 50px;
+}
+
+.h0-head{
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    margin-top: 150px;
+}
+.h1-head{
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+}
+.profile{
+    margin-top: 70px;
+    height: 300px;
+    width: 300px;
+    border-radius: 25%;
+}
+.button{
+    position: relative;
+    width: 100px;
+    padding: 15px 0;
+    text-align: center;
+    margin: 20px 10px;
+    font-weight: bold;
+    border: 2px solid #0A2647;
+    background-color: #9EA1D4;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+nav #icon{
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    line-height: 80px;
+    float: right;
+    cursor: pointer;
+    display: none;
+    margin-right: 40px;
+}
+nav {
+    background-color: transparent;
+    height: 80px;
+    width: 100%;
+
+}
+.logo {
+    color: rgb(0, 0, 0);
+    font-size: 35px;
+    line-height: 80px;
+    padding: 0 100px;
+    font-weight: bold;
+}
+.nav-ul-up {
+    float: right; 
+    margin-right: 20px;
+}
+.nav-ul-down {
+    text-align: center;
+}
+.nav-ul-li-up {
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+}
+.nav-ul-li-down {
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+}
+.nav-ul-li-a-up {
+    color: rgb(0, 0, 0);
+    font-size: 17px;
+    padding: 7px 13px;
+    border-radius: 5px;
+    border: 0.5px solid transparent;
+    text-transform: uppercase;
+}
+.nav-ul-li-a-down {
+    color: rgb(0, 0, 0);
+    font-size: 17px;
+    padding: 7px 13px;
+    border-radius: 5px;
+    border: 0.5px solid black;
+
+}
+a.active {
+    color: #030202;
+    transition: .5s;
+}
+.a-up:hover {
+    background: white;
+    color: black;
+    border-radius: 0.5px solid #9EA1D4 ;
+    transition: .5s;
+
+}
